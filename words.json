@@ -1934,7 +1934,7 @@
         "example_count": 1,
         "examples": [
             {
-                "meaning": "~을 업애다[제거하다]",
+                "meaning": "~을 없애다[제거하다]",
                 "e_sentence": "Stress hormones burn away when you _1_ the stress source.",
                 "k_sentence": "스트레스 호르몬들은 여러분이 스트레스의 원인을 없애면 연소되어 사라진다.",
                 "blank_count": 1,
@@ -2062,7 +2062,7 @@
         "example_count": 1,
         "examples": [
             {
-                "meaning": "1. ~을 격다 2. ~을 조사하다[검토하다]",
+                "meaning": "1. ~을 겪다 2. ~을 조사하다[검토하다]",
                 "e_sentence": "This documentary will help you understand the physical changes that older people _1_",
                 "k_sentence": "이 다큐멘터리는 노인들이 겪는 신체적인 변화를 당신이 이해하는 데 도움이 될 것이다.",
                 "blank_count": 1,
@@ -2969,7 +2969,7 @@
             },
             {
                 "meaning": "황량한, 적막한, 외로운",
-                "e_sentence": "The place was a company _1_ area, like a desert.",
+                "e_sentence": "The place was a completely _1_ area, like a desert.",
                 "k_sentence": "그 장소는 사막과 같이 완전히 황량한 지역이었다.",
                 "blank_count": 1,
                 "blanks": [
@@ -4166,12 +4166,21 @@
         "day": 23,
         "wordnum": 873,
         "word": "combine",
-        "example_count": 1,
+        "example_count": 2,
         "examples": [
             {
                 "meaning": "결합하다, 연합하다, 합병[융합]하다",
                 "e_sentence": "The system _1_ three existing technologies.",
                 "k_sentence": "그 시스템은 기존의 세 가지 기술을 결합한다.",
+                "blank_count": 1,
+                "blanks": [
+                    "combines"
+                ]
+            },
+            {
+                "meaning": "결합하다, 연합하다, 합병[융합]하다",
+                "e_sentence": "Hydrogen _1_ with oxygen to form water.",
+                "k_sentence": "수소는 산소와 결합하여 물이 된다.",
                 "blank_count": 1,
                 "blanks": [
                     "combines"
@@ -4523,12 +4532,21 @@
         "day": 23,
         "wordnum": 894,
         "word": "dedicate",
-        "example_count": 1,
+        "example_count": 2,
         "examples": [
             {
                 "meaning": "바치다, 전념하다",
                 "e_sentence": "People who _1_ their time to turning edibles into visuals are often called food artists.",
                 "k_sentence": "자신의 시간을 바쳐 식품을 영상으로 바꾸는 사람들을 흔히 음식 예술가라고 불린다.",
+                "blank_count": 1,
+                "blanks": [
+                    "dedicate"
+                ]
+            },
+            {
+                "meaning": "바치다, 전념하다",
+                "e_sentence": "The new president said he would _1_ himself to protecting the weak.",
+                "k_sentence": "새 대통령은 약자를 보호하는 데 헌신하겠다고 말했다.",
                 "blank_count": 1,
                 "blanks": [
                     "dedicate"
@@ -4642,7 +4660,7 @@
         "day": 23,
         "wordnum": 901,
         "word": "instinct",
-        "example_count": 1,
+        "example_count": 2,
         "examples": [
             {
                 "meaning": "본능, 본성, 재능",
@@ -4651,6 +4669,15 @@
                 "blank_count": 1,
                 "blanks": [
                     "instincts"
+                ]
+            },
+            {
+                "meaning": "본능, 본성, 재능",
+                "e_sentence": "The _1_ for survival is powerful in most, but not all, people.",
+                "k_sentence": "생존을 위한 본능은 다 그런것은 아니지만 대부분의 사람들에게 있어서 강력하다.",
+                "blank_count": 1,
+                "blanks": [
+                    "instinct"
                 ]
             }
         ]
@@ -4781,7 +4808,7 @@
         "example_count": 1,
         "examples": [
             {
-                "meaning": "쇄신[혁산]하다",
+                "meaning": "쇄신[혁신]하다",
                 "e_sentence": "She blamed the company of being conservative and reluctant to _1_.",
                 "k_sentence": "그녀는 그 회사가 보수적이고 쇄신에 주저한다고 비난했다.",
                 "blank_count": 1,
@@ -5147,7 +5174,7 @@
         "example_count": 1,
         "examples": [
             {
-                "meaning": "(자원 등을) 다 써버리다, 배출하다, 기긴맥진하게 하다, 배출, 배기가스",
+                "meaning": "(자원 등을) 다 써버리다, 배출하다, 기진맥진하게 하다, 배출, 배기가스",
                 "e_sentence": "A gentle breeze cheered me up when I was _1_ after long hours of pedaling.",
                 "k_sentence": "내가 여러 시간 페달을 돌려서 지쳤을 때 부드러운 미풍이 나를 격려했다.",
                 "blank_count": 1,
@@ -5438,7 +5465,7 @@
         "examples": [
             {
                 "meaning": "지키다, 보존하다, 유지하다, 보존 식품",
-                "e_sentence": "We realized that our culture will not survive without our effort to _1_ it",
+                "e_sentence": "We realized that our culture will not survive without our effort to _1_ it.",
                 "k_sentence": "우리는 우리의 문화가 그것을 보존하려는 노력 없이는 살아남을 수 없다는 것을 깨달았다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5456,7 +5483,7 @@
             {
                 "meaning": "예언하다, 예보하다",
                 "e_sentence": "A scientist at NASA _1_ that there will be 50 basic food items.",
-                "k_sentence": "NASA의 과학자는 50개의 기본적인 음식 품목이 있게 될 것이라고 예상했다.",
+                "k_sentence": "NASA의 과학자는 50개의 기본적인 음식 품목이 있게 될 것이라고 예상한다.",
                 "blank_count": 1,
                 "blanks": [
                     "predicts"
@@ -5472,7 +5499,7 @@
         "examples": [
             {
                 "meaning": "출석, 참석, 존재, 면전; 대면, 영향력",
-                "e_sentence": "Her mere _1_ was enough to strengthen the crowd",
+                "e_sentence": "Her mere _1_ was enough to strengthen the crowd.",
                 "k_sentence": "단순히 그녀의 존재만으로도 군중을 증원하는 데 충분했다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5506,7 +5533,7 @@
         "examples": [
             {
                 "meaning": "편견, 선입견, 편견을 갖게 하다; 해를 끼치다",
-                "e_sentence": "Unlike Nightingale, Seacole had to overcome _1_ related to her race",
+                "e_sentence": "Unlike Nightingale, Seacole had to overcome _1_ related to her race.",
                 "k_sentence": "Nightingale과는 달리 Seacole은 자신의 인종과 관련된 편견을 극복해야 했다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5523,7 +5550,7 @@
         "examples": [
             {
                 "meaning": "만연하다; 우세하다, 이기다, 성공하다, 설득하다",
-                "e_sentence": "Her work dealt with flowers and insects, not the historical or religious topics that _1_ in those days",
+                "e_sentence": "Her work dealt with flowers and insects, not the historical or religious topics that _1_ in those days.",
                 "k_sentence": "그녀의 작품은 그 당시 만연했던 역사나 종교적인 주제가 아닌 꽃과 곤충을 다루었다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5549,7 +5576,7 @@
         "examples": [
             {
                 "meaning": "마음을 사로잡다;몰두시키다, 먼저 선취하다",
-                "e_sentence": "The companies aim to _1_ the global market",
+                "e_sentence": "The companies aim to _1_ the global market.",
                 "k_sentence": "그 회사들은 세계 시장을 선점하고자 한다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5566,7 +5593,7 @@
         "examples": [
             {
                 "meaning": "예상하다, 미리추정하다",
-                "e_sentence": "Speakers sometimes _1_ a high level of knowledge by the audience",
+                "e_sentence": "Speakers sometimes _1_ a high level of knowledge by the audience.",
                 "k_sentence": "연사들은 때로 관객의 높은 지식 수준을 예상한다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5583,7 +5610,7 @@
         "examples": [
             {
                 "meaning": "선사 시대",
-                "e_sentence": "_1_ is the time in history before anything was recorded",
+                "e_sentence": "_1_ is the time in history before anything was recorded.",
                 "k_sentence": "선사 시대는 어느 것도 기록되기 전의 역사상 시대이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5600,7 +5627,7 @@
         "examples": [
             {
                 "meaning": "예방책",
-                "e_sentence": "Many locals have been stockpiling food as a _1_ against shortages",
+                "e_sentence": "Many locals have been stockpiling food as a _1_ against shortages.",
                 "k_sentence": "많은 현지인이 부족에 대비한 예방책으로서 식량을 비축하고 있었다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5626,7 +5653,7 @@
         "examples": [
             {
                 "meaning": "명백한, 분명한",
-                "e_sentence": "There are _1_ continuities between exercise and health",
+                "e_sentence": "There are _1_ continuities between exercise and health.",
                 "k_sentence": "운동과 건강 사이에는 분명한 연관성이 있다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5643,7 +5670,7 @@
         "examples": [
             {
                 "meaning": "마주보고 있는, 반대쪽의, 정반대의",
-                "e_sentence": "The two men had _1_ personalities",
+                "e_sentence": "The two men had _1_ personalities.",
                 "k_sentence": "그 두 남자는 정반대의 성격을 가졌다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5694,7 +5721,7 @@
         "examples": [
             {
                 "meaning": "의무를 지우다, 강요하다",
-                "e_sentence": "International public opinion will soon _1_ countries to clean up the environment",
+                "e_sentence": "International public opinion will soon _1_ countries to clean up the environment.",
                 "k_sentence": "국제 여론 때문에 곧 나라들은 환경을 깨끗이 하지 않을 수 없을 것이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5711,7 +5738,7 @@
         "examples": [
             {
                 "meaning": "분명하지 않은, 모호한",
-                "e_sentence": "The origin of the word remains _1_",
+                "e_sentence": "The origin of the word remains _1_.",
                 "k_sentence": "그 단어의 기원은 분명하지 않은 채 남아 있다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5745,7 +5772,7 @@
         "examples": [
             {
                 "meaning": "기반 시설, 기초 구조",
-                "e_sentence": "Developing a transportation system will modernize our transportation _1_",
+                "e_sentence": "Developing a transportation system will modernize our transportation _1_.",
                 "k_sentence": "교통 체제를 발달시키는 것이 우리의 교통 기반 시설을 현대화시킬 것이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5779,7 +5806,7 @@
         "examples": [
             {
                 "meaning": "막다, 방해하다",
-                "e_sentence": "The screen _1_ the passage of light",
+                "e_sentence": "The screen _1_ the passage of light.",
                 "k_sentence": "차단막이 빛의 통과를 방해한다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5796,7 +5823,7 @@
         "examples": [
             {
                 "meaning": "결과, 성과",
-                "e_sentence": "Using the big data carelessly can lead to unexpected _1_",
+                "e_sentence": "Using the big data carelessly can lead to unexpected _1_.",
                 "k_sentence": "빅데이터를 부주의하게 사용하는 것은 예상치 못한 결과로 이어질 수 있다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5813,7 +5840,7 @@
         "examples": [
             {
                 "meaning": "구식의, 시대에 뒤떨어진",
-                "e_sentence": "Creative reuse of _1_ structures can be a great solution",
+                "e_sentence": "Creative reuse of _1_ structures can be a great solution.",
                 "k_sentence": "구식 구조물을 창의적으로 재사용하는 것은 굉장히 좋은 해결책일 수 있다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5830,7 +5857,7 @@
         "examples": [
             {
                 "meaning": "뛰어난, 훌륭한, 두드러진",
-                "e_sentence": "One of the _1_ features of industrial agriculture is monoculture",
+                "e_sentence": "One of the _1_ features of industrial agriculture is monoculture.",
                 "k_sentence": "산업적 농업의 두드러진 특징 중 하나는 단일경작이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5847,7 +5874,7 @@
         "examples": [
             {
                 "meaning": "출구,배출구, 발산 수단",
-                "e_sentence": "Sport became the perfect _1_ for his stress",
+                "e_sentence": "Sport became the perfect _1_ for his stress.",
                 "k_sentence": "스포츠는 그의 스트레스를 발산할 완벽한 수단이 되었다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5873,8 +5900,8 @@
         "examples": [
             {
                 "meaning": "터무니없는, 지나친",
-                "e_sentence": "The rent is _1_ , so let's skip that apartment",
-                "k_sentence": "임대료가 터무니없으니 그 아파트는 거르자",
+                "e_sentence": "The rent is _1_ , so let's skip that apartment.",
+                "k_sentence": "임대료가 터무니없으니 그 아파트는 거르자.",
                 "blank_count": 1,
                 "blanks": [
                     "outrageous"
@@ -5907,7 +5934,7 @@
         "examples": [
             {
                 "meaning": "국한하다, 가두다",
-                "e_sentence": "Please _1_ your remarks to the fact",
+                "e_sentence": "Please _1_ your remarks to the fact.",
                 "k_sentence": "사실에만 국한해서 발언해 주십시오.",
                 "blank_count": 1,
                 "blanks": [
@@ -5924,7 +5951,7 @@
         "examples": [
             {
                 "meaning": "무한한, 무한의",
-                "e_sentence": "As you look up at the night sky in the desert, you feel that an _1_ number of stars are falling",
+                "e_sentence": "As you look up at the night sky in the desert, you feel that an _1_ number of stars are falling.",
                 "k_sentence": "사막에서 밤하늘을 올려다보면, 여러분은 무한한 수의 별이 떨어지고 있는 것 같이 느낀다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5975,7 +6002,7 @@
         "examples": [
             {
                 "meaning": "토착의, 고유의, 원산의",
-                "e_sentence": "The policies caused deep pain and suffering of the _1_ peoples",
+                "e_sentence": "The policies caused deep pain and suffering of the _1_ peoples.",
                 "k_sentence": "그 정책은 토착민들에게 깊은 고통과 괴로움을 유발했다.",
                 "blank_count": 1,
                 "blanks": [
@@ -5992,7 +6019,7 @@
         "examples": [
             {
                 "meaning": "너그러움, 관대, 아량",
-                "e_sentence": "Always treat people with _1_ and thoughtfulness",
+                "e_sentence": "Always treat people with _1_ and thoughtfulness.",
                 "k_sentence": "항상 사람들을 너그러움과 사려 깊음으로 대하라.",
                 "blank_count": 1,
                 "blanks": [
@@ -6026,7 +6053,7 @@
         "examples": [
             {
                 "meaning": "결합, 연합, 조합",
-                "e_sentence": "The student _1_ is holding a charity event from next Monday",
+                "e_sentence": "The student _1_ is holding a charity event from next Monday.",
                 "k_sentence": "학생회는 다음 월요일부터 자선 행사를 개최할 것이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6077,7 +6104,7 @@
         "examples": [
             {
                 "meaning": "액체, 유동체",
-                "e_sentence": "Then, you put on some gear that connects to the machine and go into a tank of _1_",
+                "e_sentence": "Then, you put on some gear that connects to the machine and go into a tank of _1_.",
                 "k_sentence": "그러면 당신은 기계와 연결되는 장비를 착용하고 액체 탱크로 들어간다. ",
                 "blank_count": 1,
                 "blanks": [
@@ -6154,7 +6181,7 @@
         "examples": [
             {
                 "meaning": "발전, 전진, 진보",
-                "e_sentence": "We are making slow but steady _1_",
+                "e_sentence": "We are making slow but steady _1_.",
                 "k_sentence": "우리는 느리지만 꾸준한 발전을 보이고 있다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6205,7 +6232,7 @@
         "examples": [
             {
                 "meaning": "깊은, 심오한",
-                "e_sentence": "Arbore found this exchange _1_",
+                "e_sentence": "Arbore found this exchange _1_.",
                 "k_sentence": "Arbore는 이 교류가 심오하다는 것을 알았다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6222,7 +6249,7 @@
         "examples": [
             {
                 "meaning": "번영하다, 성공하다",
-                "e_sentence": "Fez was the medieval capital of Morocco and the place where Moroccan culture began to _1_",
+                "e_sentence": "Fez was the medieval capital of Morocco and the place where Moroccan culture began to _1_.",
                 "k_sentence": "Fez는 모로코의 중세 수도이며 모로코 문화가 번성하기 시작한 장소였다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6239,7 +6266,7 @@
         "examples": [
             {
                 "meaning": "연장하는, 오래 계속되는",
-                "e_sentence": "He left the stage to _1_ applause",
+                "e_sentence": "He left the stage to _1_ applause.",
                 "k_sentence": "그는 박수가 오래 계속되는 가운데 무대를 떠났다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6265,7 +6292,7 @@
         "examples": [
             {
                 "meaning": "천재, 신동",
-                "e_sentence": "Many believe that Mozart was an infant _1_",
+                "e_sentence": "Many believe that Mozart was an infant _1_.",
                 "k_sentence": "많은 사람이 모차르트가 신동이었다고 믿는다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6282,7 +6309,7 @@
         "examples": [
             {
                 "meaning": "항의, 이의 제기, 항의하다",
-                "e_sentence": "The residents _1_ the injustice of the punishment",
+                "e_sentence": "The residents _1_ the injustice of the punishment.",
                 "k_sentence": "주민들은 그 처벌의 부당함에 대해 항의했다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6376,7 +6403,7 @@
             },
             {
                 "meaning": "추상적인, 이론적인",
-                "e_sentence": "We may talk of specific beautiful things but beauty itself is _1_",
+                "e_sentence": "We may talk of specific beautiful things but beauty itself is _1_.",
                 "k_sentence": "우리는 특정한 아름다운 것들에 대해 이야기를 할 수 있지만 아름다움 그 자체는 추상적이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6393,7 +6420,7 @@
         "examples": [
             {
                 "meaning": "악용하다, 오용하다",
-                "e_sentence": "If we brush these issues aside, it is easy for our trust in IoT devices to be _1_",
+                "e_sentence": "If we brush these issues aside, it is easy for our trust in IoT devices to be _1_.",
                 "k_sentence": "만일 우리가 이러한 사안들을 무시한다면, 사물인터넷 기기에 대한 우리의 신뢰가 오용되기 쉽다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6427,7 +6454,7 @@
         "examples": [
             {
                 "meaning": "불합리한, 부조리한",
-                "e_sentence": "Do not neglect your opponent's arguments, even if they seem _1_",
+                "e_sentence": "Do not neglect your opponent's arguments, even if they seem _1_.",
                 "k_sentence": "비록 상대방의 주장이 불합리해 보일지라도, 그 주장을 무시하지 마라.",
                 "blank_count": 1,
                 "blanks": [
@@ -6495,7 +6522,7 @@
         "examples": [
             {
                 "meaning": "업사이클링",
-                "e_sentence": "The old tires have a new life through _1_",
+                "e_sentence": "The old tires have a new life through _1_.",
                 "k_sentence": "오래된 타이어들은 업사이클링을 통해 새 생명을 얻는다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6614,7 +6641,7 @@
         "examples": [
             {
                 "meaning": "치료법, 치료",
-                "e_sentence": "I'm sorry but the disease has no known _1_",
+                "e_sentence": "I'm sorry but the disease has no known _1_.",
                 "k_sentence": "유감이지만 그 병은 알려진 치료법이 없다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6665,7 +6692,7 @@
         "examples": [
             {
                 "meaning": "미술품, 도판",
-                "e_sentence": "This _1_ is about the northern scenery",
+                "e_sentence": "This _1_ is about the northern scenery.",
                 "k_sentence": "이 미술품은 북부의 풍경에 관한 것이다.",
                 "blank_count": 1,
                 "blanks": [
@@ -6778,7 +6805,7 @@
             },
             {
                 "meaning": "반대하다, 싫어하다",
-                "e_sentence": "Many people _1_ to the building of a gas station in many town.",
+                "e_sentence": "Many people _1_ to the building of a gas station in their town.",
                 "k_sentence": "많은 사람들이 자신들의 마을에 주유소를 건설하는 것에 반대했다.",
                 "blank_count": 1,
                 "blanks": [
@@ -7399,7 +7426,7 @@
             {
                 "meaning": "지속하다",
                 "e_sentence": "I hope some people will _1_ in the journey to unraveling this mystery.",
-                "k_sentence": "나는 몇몇 사람들이 이 신비를 푸는 여향을 지속하기를 바란다.",
+                "k_sentence": "나는 몇몇 사람들이 이 신비를 푸는 여행을 지속하기를 바란다.",
                 "blank_count": 1,
                 "blanks": [
                     "persist"
@@ -7595,7 +7622,7 @@
             {
                 "meaning": "지형, 지세",
                 "e_sentence": "The geographical _1_ of the world can be found in maps and images.",
-                "k_sentence": "세계의 지형들은 지도와 미미지에서 찾을 수 있다.",
+                "k_sentence": "세계의 지형들은 지도와 이미지에서 찾을 수 있다.",
                 "blank_count": 1,
                 "blanks": [
                     "features"
@@ -7625,7 +7652,7 @@
         "day": 28,
         "wordnum": 1051,
         "word": "direct",
-        "example_count": 3,
+        "example_count": 4,
         "examples": [
             {
                 "meaning": "기울이다, 향하다",
@@ -7649,6 +7676,15 @@
                 "meaning": "직접적인",
                 "e_sentence": "The students have _1_ experience with the concept.",
                 "k_sentence": "그 학생들은 그 개념에 대해 직접적인 경험을 한다.",
+                "blank_count": 1,
+                "blanks": [
+                    "direct"
+                ]
+            },
+            {
+                "meaning": "직행의",
+                "e_sentence": "There were no _1_ flights to New Delhi that day.",
+                "k_sentence": "그날 New Delhi로 가는 직항편이 없었다.",
                 "blank_count": 1,
                 "blanks": [
                     "direct"
@@ -7770,7 +7806,7 @@
             },
             {
                 "meaning": "이유, 동기",
-                "e_sentence": "This step is consideered to be necessary on public _1_.",
+                "e_sentence": "This step is considered to be necessary on public _1_.",
                 "k_sentence": "이 단계는 공공적 이유로 필요하다고 여겨진다.",
                 "blank_count": 1,
                 "blanks": [
@@ -7859,7 +7895,7 @@
             {
                 "meaning": "선내",
                 "e_sentence": "This means that all passengers are on _1_.",
-                "k_sentence": "이것은 모든 승객이 탐승한 것을 의미한다.",
+                "k_sentence": "이것은 모든 승객이 탑승한 것을 의미한다.",
                 "blank_count": 1,
                 "blanks": [
                     "board"
