@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>결과</title>
+  <link rel="stylesheet" href="result.css">
+</head>
+
+<body>
+  <div class="result-box">
+    <h1>테스트 결과</h1>
+
+    <p class="score">
+      정답: <span id="correct">0</span><br>
+      오답: <span id="incorrect">0</span>
+    </p>
+
+    <button onclick="location.href='index.html'">다시 시작하기</button>
+
+    <h2>틀린 문제</h2>
+    <div id="wrongList"></div>
+  </div>
+
+  <script src="result.js"></script>
+</body>
+</html>

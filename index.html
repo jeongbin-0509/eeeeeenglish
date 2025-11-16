@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>영어 수행 연습</title>
+
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <div class="home-wrap">
+    <h1>welc<span style="color:#35b3f2;">o</span>me!</h1>
+
+    <div class="day-select">
+      <!-- 17 ~ 30 -->
+      <script>
+        for(let i=17;i<=30;i++){
+          document.write(`
+            <input type="checkbox" class="itam" name="day" value="${i}" id="day${i}">
+            <label for="day${i}">${i}</label>
+          `);
+        }
+      </script>
+    </div>
+
+    <div id="selected-days-panel" class="selected-panel hidden">
+      <span class="selected-label">선택한 Day</span>
+      <div id="selected-days" class="selected-list"></div>
+    </div>
+
+    <div id="start-container" class="start-container hidden">
+      <button id="startBtn" type="button">선택한 Day로 시작하기 ▶</button>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

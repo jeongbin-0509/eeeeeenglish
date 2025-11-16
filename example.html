@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>영어 수행 연습 - 예문</title>
+
+  <link rel="stylesheet" href="example.css">
+</head>
+
+<body>
+
+  <main class="wrap">
+    <section class="card" id="card">
+
+      <button class="corner-star" id="favBtn">★</button>
+
+      <div class="head">
+        <span class="chip" id="counter">1 / 1</span>
+      </div>
+
+      <div class="content">
+        <p class="en" id="en">Loading...</p>
+        <p class="ko" id="ko"></p>
+
+        <div id="feedback" class="feedback" hidden>
+          <div class="fb-row">
+            <span class="fb-label">내 답</span>
+            <span class="fb-value" id="myAnswer"></span>
+          </div>
+          <div class="fb-row">
+            <span class="fb-label">정답</span>
+            <span class="fb-value correct" id="rightAnswer"></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="submitBtn" class="btn">확인</button>
+      </div>
+
+      <section id="finalPanel" class="final-panel" hidden>
+        <div class="final-actions">
+          <button class="btn" id="btnShowWrong">틀린 단어 보기</button>
+          <button class="btn" id="btnRestart">DAY 재선택</button>
+        </div>
+
+        <section id="wrongSection" class="wrong-section" hidden>
+          <h3 class="wrong-title">틀린 단어</h3>
+          <div id="wrongList"></div>
+        </section>
+      </section>
+
+    </section>
+
+    <div class="result">
+      <div class="bar" id="progressBar"></div>
+    </div>
+    <div class="legend">
+      <span class="good" id="goodCnt">0 정답</span>
+      <span class="bad" id="badCnt">0 오답</span>
+    </div>
+  </main>
+
+  <script>
+    window.WORDS_URL = "words.json";
+  </script>
+  <script src="example.js"></script>
+</body>
+</html>
